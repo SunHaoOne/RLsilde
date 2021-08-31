@@ -5,4 +5,5 @@ Some notes about reinforce learning.
 - `RL-1` : Bellman Equation
 - `RL-2` : Policy Iteration and Value Iteration
 - `RL-3` : Linear Quadratic Regulator
+- 'MCTS' : Monte Carlo Tree Search
 
