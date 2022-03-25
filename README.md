@@ -7,7 +7,7 @@ Some notes about reinforce learning.
 - `RL-3` : Linear Quadratic Regulator
 - `MCTS` : Monte Carlo Tree Search
 - `Frenet`: CartesianFrenetConverter 
-
+- `backtrack`: Notes about the backtrack leetcode problems.
 
 > 2022.3.8 更新Frenet详细推导过程，认真校对了其中的符号，全文由Typora软件编写而成。
 
